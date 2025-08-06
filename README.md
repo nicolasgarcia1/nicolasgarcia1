@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Nicolás García
 
-<!--
-**nicolasgarcia1/nicolasgarcia1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Técnico Universitario en Programación** (UTN) | 💻 **Desarrollador Full Stack Junior**
 
-Here are some ideas to get you started:
+Soy un apasionado por la programación y el desarrollo de software. Me encanta aprender constantemente nuevas tecnologías y enfrentar desafíos que me permitan crecer como profesional. Tengo experiencia académica desarrollando proyectos utilizando **React**, **ASP.NET Core** y **SQL**, y actualmente sigo perfeccionando mis habilidades para convertirme en un mejor desarrollador cada día.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Sobre mí
+
+- 📍 Vivo en Rosario, Santa Fe, Argentina.
+- 💼 Actualmente estoy en búsqueda activa de oportunidades laborales como desarrollador, con disponibilidad horaria completa.
+
+## 📫 Contacto
+
+<div>
+  <a href="https://www.linkedin.com/in/nicolasmaximilianogarcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:nicolasmgarcia0@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
