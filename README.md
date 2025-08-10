@@ -9,11 +9,11 @@ Soy un apasionado por la programación y el desarrollo de software. Me encanta a
 ## 🚀 Sobre mí
 
 - 📍 Vivo en Rosario, Santa Fe, Argentina.
-- 💼 Actualmente estoy en búsqueda activa de oportunidades laborales como desarrollador, con disponibilidad horaria completa.
+- 💼 Actualmente estoy en búsqueda activa de oportunidades laborales como desarrollador, con disponibilidad horaria completa y posibilidad de trabajar remoto, presencial o híbrido.
 
 ## 📫 Contacto
 
 <div>
   <a href="https://www.linkedin.com/in/nicolasmaximilianogarcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:nicolasmgarcia0@gmail.com@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nicolasmgarcia0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
