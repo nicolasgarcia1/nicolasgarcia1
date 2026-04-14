@@ -9,7 +9,7 @@ Soy un apasionado por la programación y el desarrollo de software. Me encanta a
 ## 🚀 Sobre mí
 
 - 📍 Vivo en Rosario, Santa Fe, Argentina.
-- 💼 Actualmente estoy en búsqueda activa de oportunidades laborales como desarrollador, con disponibilidad horaria completa y posibilidad de trabajar remoto, presencial o híbrido.
+- 💼 Trabajando actualmente para la Dirección Informática Universitaria (UNR).
 
 ## 📫 Contacto
 
