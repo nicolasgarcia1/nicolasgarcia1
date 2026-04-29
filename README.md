@@ -2,7 +2,7 @@
 
 🎓 **Técnico Universitario en Programación** (UTN) | 💻 **Desarrollador Full Stack Junior**
 
-Soy un apasionado por la programación y el desarrollo de software. Me encanta aprender constantemente nuevas tecnologías y enfrentar desafíos que me permitan crecer como profesional. Tengo experiencia académica desarrollando proyectos utilizando **React**, **ASP.NET Core** y **SQL**, y actualmente sigo perfeccionando mis habilidades para convertirme en un mejor desarrollador cada día.
+Soy un apasionado por la programación y el desarrollo de software. Me encanta aprender constantemente nuevas tecnologías y enfrentar desafíos que me permitan crecer como profesional. Tengo experiencia académica desarrollando proyectos utilizando **React**, **ASP.NET Core** y **MySQL**, y actualmente sigo perfeccionando mis habilidades para convertirme en un mejor desarrollador cada día.
 
 ---
 
